@@ -1,4 +1,4 @@
-<p style="font-size: 16px;"><b>안녕하세요 :blush:</b></p>
+<p style="font-size: 18px;"><b>안녕하세요%20:blush:</b></p>
 <p> 벡엔드 개발자를 꿈꾸며 꾸준히 공부하고 기록하고 있습니다. </p>
 
 <p> 공부하고있는 기술들 :seedling: </p>
