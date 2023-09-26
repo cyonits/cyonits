@@ -16,3 +16,5 @@
 <p align="center">
   <a href="https://be-lee.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5041?style=flat-square&logo=Tistory&logoColor=white&link=https://be-lee.tistory.com/"/></a>&nbsp
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyonits)](https://github.com/anuraghazra/github-readme-stats)
