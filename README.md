@@ -1,11 +1,11 @@
 <h3>
-  안녕하세요!
+  안녕하세요 :blush:
 </h3>
 <p>
-  벡엔드 개발자를 꿈꾸며 꾸준히 공부하고 기록하고 있습니다.
+  벡엔드 개발자를 꿈꾸며 꾸준히 공부하고 기록하고 있습니다. 
 </p>
 
-<h3> Stack </h3>
+<h3> 공부하고있는 기술들 :seedling: </h3>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>&nbsp
   <br>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3> Social Media </h3>
+<h3> 기록하는곳 :bookmark: </h3>
 <p>
   <a href="https://be-lee.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5041?style=for-the-badge&logo=Tistory&logoColor=white&link=https://be-lee.tistory.com/"/></a>&nbsp
 </p>
