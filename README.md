@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center"> Contact </h3>
+<h3 align="center"> Social Media </h3>
 <p align="center">
   <a href="https://be-lee.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5041?style=flat-square&logo=Tistory&logoColor=white&link=https://be-lee.tistory.com/"/></a>&nbsp
-  <a href="mailto:cyonitss@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cyonitss@gmail.com"/></a>
 </p>
